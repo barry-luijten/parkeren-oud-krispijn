@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Parkeerproblematiek Oud-Krispijn",
+    "description": "",
+    "home_page_url": "https://barry-luijten.github.io/parkeren-oud-krispijn",
+    "feed_url": "https://barry-luijten.github.io/parkeren-oud-krispijn/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bewoners van Oud-Krispijn"
+    },
+    "items": [
+    ]
+}
