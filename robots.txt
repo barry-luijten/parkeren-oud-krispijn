@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://barry-luijten.github.io/parkeren-oud-krispijn/sitemap.xml
+Sitemap: https://parkerenoudkrispijn.nl/sitemap.xml

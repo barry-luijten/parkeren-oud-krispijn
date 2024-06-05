@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://barry-luijten.github.io/parkeren-oud-krispijn/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://parkerenoudkrispijn.nl/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://barry-luijten.github.io/parkeren-oud-krispijn/</loc>
+<loc>https://parkerenoudkrispijn.nl/</loc>
 </url>
 <url>
-<loc>https://barry-luijten.github.io/parkeren-oud-krispijn/het-probleem.html</loc>
+<loc>https://parkerenoudkrispijn.nl/het-probleem.html</loc>
 <lastmod>2024-06-05T13:49:06+02:00</lastmod>
 </url>
 <url>
-<loc>https://barry-luijten.github.io/parkeren-oud-krispijn/parkeerproblematiek-oud-krispijn.html</loc>
+<loc>https://parkerenoudkrispijn.nl/parkeerproblematiek-oud-krispijn.html</loc>
 <lastmod>2024-06-05T14:33:06+02:00</lastmod>
 <image:image>
-<image:loc>https://barry-luijten.github.io/parkeren-oud-krispijn/media/posts/2/kaart-met-parkeerdruk.png</image:loc>
+<image:loc>https://parkerenoudkrispijn.nl/media/posts/2/kaart-met-parkeerdruk.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
